@@ -59,7 +59,7 @@
 
 ---
 
-📑 Output Report Includes
+📑 Output Report Includes:
 - ✅ Title and general overview
 
 - ✅ Total number of rows and columns
@@ -70,7 +70,10 @@
 
 - ✅ Descriptive statistics table (for all columns)
 
+---
+
 📌 Applications
+
 This tool is useful for:
 
 - 🧪 Data Analysts – Quick overview of large datasets
