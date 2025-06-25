@@ -86,5 +86,8 @@ This tool is useful for:
 
 - 🕵️ Auditing and Compliance – Structured data reviews
 
+# Output of the PDF file
 
+![Screenshot 2025-06-10 010623](https://github.com/user-attachments/assets/c4bdb4ad-9045-40d1-915d-bef231fce8e1)
 
+![Screenshot 2025-06-10 010633](https://github.com/user-attachments/assets/c83dc09a-700e-4611-ad25-6df9657024ca)
